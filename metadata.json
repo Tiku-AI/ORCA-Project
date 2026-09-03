@@ -1,0 +1,6 @@
+{
+  "name": "ORCA — Oceanic Reasoning and Collaborative Agents",
+  "description": "SIH26176 Marine Ecosystem Reasoning with Collaborative Agents for ISRO. Multi-agent oceanic environmental assessment with real Copernicus Sentinel-1 STAC data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
